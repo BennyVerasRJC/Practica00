@@ -1,0 +1,13 @@
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\bin\Debug\netcoreapp3.1\Practica00.exe
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\bin\Debug\netcoreapp3.1\Practica00.deps.json
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\bin\Debug\netcoreapp3.1\Practica00.runtimeconfig.json
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\bin\Debug\netcoreapp3.1\Practica00.runtimeconfig.dev.json
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\bin\Debug\netcoreapp3.1\Practica00.dll
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\bin\Debug\netcoreapp3.1\Practica00.pdb
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.csprojAssemblyReference.cache
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.AssemblyInfoInputs.cache
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.AssemblyInfo.cs
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.csproj.CoreCompileInputs.cache
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.dll
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.pdb
+C:\Users\Benny Veras\source\repos\Practica00\Practica00\obj\Debug\netcoreapp3.1\Practica00.genruntimeconfig.cache
